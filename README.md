@@ -6,5 +6,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github with code](https://github.com/konradbaczyk/QR-code-component?tab=readme-ov-file)
-- Live site URL: [Live site](https://konradbaczyk.github.io/QR-code-component/)
+- Solution URL: [Github with code](https://github.com/konradbaczyk/Blog-preview-card)
+- Live site URL: [Live site](https://konradbaczyk.github.io/Blog-preview-card/)
